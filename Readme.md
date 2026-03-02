@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, I'm Subham Kumar</h1>
+<h1 align="center">Hello 👋, Kinthada bala veera kishore</h1>
 <h3 align="center">Full-Stack Developer | Building Seamless Web & Mobile Experiences</h3>
 
 - 👨‍💻 All of my projects are available at [https://subhamk2004.github.io/Subham_Portfolio/](https://subhamk2004.github.io/Subham_Portfolio/)
 
-- 📫 How to reach me **subhamrahar22@gmail.com**
+- 📫 How to reach me **bala123verakishore@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1oGaF5lsoQiYJagJGBsd3F0bg-5NJ6-lP/view?usp=drive_link)
 
