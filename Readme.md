@@ -1,16 +1,16 @@
 <h1 align="center">Hello 👋, Kinthada bala veera kishore</h1>
 <h3 align="center">Full-Stack Developer | Building Seamless Web & Mobile Experiences</h3>
 
-- 👨‍💻 All of my projects are available at [https://subhamk2004.github.io/Subham_Portfolio/](https://subhamk2004.github.io/Subham_Portfolio/)
+- 👨‍💻 All of my projects are available at ()
 
 - 📫 How to reach me **bala123verakishore@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1oGaF5lsoQiYJagJGBsd3F0bg-5NJ6-lP/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/subham-kumar-73b98b252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subham-kumar-73b98b252" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/subhamk1978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhamk1978" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kbv-kishore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subham-kumar-73b98b252" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhamk1978" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
